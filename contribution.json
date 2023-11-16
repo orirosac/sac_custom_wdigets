@@ -2,7 +2,7 @@
 	"name": "Pyramid Chart",
 	"description": "Chart Pyramid",
 	"eula": "",
-	"vendor": "Marina Yesayan",
+	"vendor": "Benaissa Tayibi",
 	"license": "",
 	"id": "chart.shape",	
 	"newInstancePrefix": "PyramidChart",
