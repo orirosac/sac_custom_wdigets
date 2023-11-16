@@ -12,14 +12,14 @@
 		{
 			"kind": "main",
 			"tag": "chart-shape",
-			"url": "https://my-cubeserv.github.io/SAP_CustomWidget_Pyramid/main-component.js",
+			"url": "https://github.com/orirosac/sac_custom_wdigets/blob/main/main-component.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "styling",
 			"tag": "chart-style",
-			"url": "https://my-cubeserv.github.io/SAP_CustomWidget_Pyramid/styling-component.js",
+			"url": "https://github.com/orirosac/sac_custom_wdigets/blob/main/main-component.js,
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
