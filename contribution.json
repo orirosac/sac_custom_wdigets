@@ -12,14 +12,14 @@
 		{
 			"kind": "main",
 			"tag": "chart-shape",
-			"url": "https://oriorsac.github.io/sac_custom_wdigets/blob/main/main-component.js",
+			"url": "https://oriorsac.github.io/sac_custom_wdigets/main-component.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "styling",
 			"tag": "chart-style",
-			"url": "https://oriorsac.github.io/sac_custom_wdigets/blob/main/styling-component.js",
+			"url": "https://oriorsac.github.io/sac_custom_wdigets/styling-component.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
